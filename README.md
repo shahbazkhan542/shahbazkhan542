@@ -48,22 +48,5 @@ Results-driven full stack developer with a proven track record of building high-
 ---
 
 
-## 📫 Let's Connect
-
-Open to on-site, hybrid, and remote roles. Let's talk about your next product!
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shahbaz.542@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-shahbaz-khan-60514b17b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/shahbazkhan542)
-
----
-
-## 📝 About This Repository
-
-This README is a reflection of my professional portfolio. My journey has taken me from page builders to production-grade React applications, and I continue to expand my skills into mobile development with React Native and .NET technologies.
-
-> *"From page builders to production-grade React — here's how the stack came together."*
-
----
 
 *Built with care. © 2026 Muhammad Shahbaz Khan*
